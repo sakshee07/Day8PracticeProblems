@@ -44,12 +44,9 @@ public static void IfEqual() {
 		System.out.println("Lines are equal");
 	} else   { 
 		System.out.println("Line 1 is not equal to line 2");
-	
-	
+		
 	}
 }
-
-
 public static void CheckRelation() {
 	
 	if(Length1 == Length2) {
@@ -68,8 +65,6 @@ public static void main(String[] args) {
 		input.IfEqual();
 		input.CheckRelation();
 		
-	
-
 }
 }
 
